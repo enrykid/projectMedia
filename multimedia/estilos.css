@@ -1,0 +1,22 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #007bff;
+    color: #fff;
+}
+
+footer {
+    background-color: #343a40;
+    color: #fff;
+}
+
+/* Sidebar specific styles */
+aside {
+    background-color: #6c757d;
+    color: #fff;
+    padding: 15px;
+    margin: 20px 0;
+}
